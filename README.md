@@ -1,4 +1,4 @@
-# compare-DLlibrary-speed
+# compare-DLlibrary
 深層学習ライブラリのCPU推論速度比較
 
 ## 概要
@@ -41,8 +41,7 @@
      ```
      pip install -r requirements.txt
      ```
-
-
+     
 ## 実験
 3回実行してその平均実行時間を結果としました。
 
